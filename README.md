@@ -60,7 +60,7 @@ Canvas 中的对象变换（缩放、旋转、倾斜）会改变坐标系。本�
 
 ```bash
 # 1. 克隆项目
-git clone https://github.com/your-username/vue-fabric-annotator.git
+git clone https://github.com/Nuaawly/vue-fabric-annotator.git
 cd vue-fabric-annotator
 
 # 2. 安装依赖
